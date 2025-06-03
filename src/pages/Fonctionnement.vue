@@ -1,0 +1,1 @@
+<template><div><h2>Comment ça marche ?</h2></div></template>

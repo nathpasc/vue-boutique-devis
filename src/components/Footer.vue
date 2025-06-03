@@ -1,0 +1,1 @@
+<template><footer><p>&copy; 2025 La Créatrice</p></footer></template>

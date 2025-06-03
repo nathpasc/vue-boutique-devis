@@ -1,0 +1,1 @@
+<template><div><h2>Votre Panier</h2></div></template>
